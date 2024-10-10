@@ -1,0 +1,10 @@
+.Container{
+   
+    display: inline-flex;
+    gap: 10px;
+    border: 2px solid black
+}
+.Container div{
+    background-color: brown;
+
+}
